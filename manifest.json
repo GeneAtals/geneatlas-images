@@ -1,0 +1,56 @@
+{
+  "version": "1.0.0",
+  "release_tag": "v1.0-images",
+  "base_url": "https://github.com/GeneAtals/geneatlas-images/releases/download/v1.0-images",
+  "total_images": 0,
+  "diseases": [
+    {
+      "disease_id": "beckwith_wiedemann",
+      "nom": "Syndrome de Beckwith-Wiedemann",
+      "images": [
+        {
+          "filename": "beckwith_wiedemann_01.jpg",
+          "legende": "Faciès caractéristique — macroglossie",
+          "section": "facies",
+          "source": "Wikimedia Commons — CC BY 4.0"
+        },
+        {
+          "filename": "beckwith_wiedemann_02.jpg",
+          "legende": "Omphalocèle néonatale",
+          "section": "autre",
+          "source": "Wikimedia Commons — CC BY 4.0"
+        },
+        {
+          "filename": "beckwith_wiedemann_03.jpg",
+          "legende": "Hémi-hypertrophie corporelle",
+          "section": "autre",
+          "source": "Wikimedia Commons — CC BY 4.0"
+        }
+      ]
+    },
+    {
+      "disease_id": "rubinstein_taybi",
+      "nom": "Syndrome de Rubinstein-Taybi",
+      "images": [
+        {
+          "filename": "rubinstein_taybi_01.jpg",
+          "legende": "Faciès caractéristique",
+          "section": "facies",
+          "source": "Wikimedia Commons — CC BY 4.0"
+        },
+        {
+          "filename": "rubinstein_taybi_02.jpg",
+          "legende": "Pouces larges caractéristiques",
+          "section": "mains",
+          "source": "Wikimedia Commons — CC BY 4.0"
+        },
+        {
+          "filename": "rubinstein_taybi_03.jpg",
+          "legende": "Halluces larges",
+          "section": "mains",
+          "source": "Wikimedia Commons — CC BY 4.0"
+        }
+      ]
+    }
+  ]
+}
